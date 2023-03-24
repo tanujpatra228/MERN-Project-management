@@ -4,10 +4,10 @@ This is a full-stack project management system built using GraphQL, Express, Mon
 
 ### Table of Contents
 
-    - Features
-    - Requirements
-    - Installation
-    - Usage
+    - [Features](#features)
+    - [Requirements](#requirements)
+    - [Installation](#installation)
+    - [Usage](#usage)
 
 ### Features
 
@@ -24,12 +24,17 @@ This is a full-stack project management system built using GraphQL, Express, Mon
 
 ### Installation
 
-    Clone the repository: git clone https://github.com/your-username/project-management-system.git
-    Navigate to the project directory: cd project-management-system
-    Install dependencies: npm install
+    1. Clone the repository: git clone https://github.com/tanujpatra228/MERN-Project-management.git
+    2. Navigate to the project directory: cd MERN-Project-management
+    3. Rename `example.env` to `.env`
+    4. Navigate to the server directory: cd server
+    5. Install dependencies: npm install
+    6. Navigate back to the project directory: cd ..
+    6. Navigate to the server client: cd client
+    7. Install dependencies: npm install
 
 ### Usage
 
-    1. Start the backend server: npm run start:server
-    2. Start the frontend server: npm run start:client
+    1. Start the backend server: npm run dev
+    2. Start the frontend server: npm start
     3. Open your web browser and navigate to http://localhost:3000
