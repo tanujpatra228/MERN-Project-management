@@ -4,10 +4,10 @@ This is a full-stack project management system built using GraphQL, Express, Mon
 
 ### Table of Contents
 
-    - [Features](https://github.com/tanujpatra228/MERN-Project-management#features)
-    - [Requirements](https://github.com/tanujpatra228/MERN-Project-management#requirements)
-    - [Installation](https://github.com/tanujpatra228/MERN-Project-management#installation)
-    - [Usage](https://github.com/tanujpatra228/MERN-Project-management#usage)
+- [Features](https://github.com/tanujpatra228/MERN-Project-management#features)
+- [Requirements](https://github.com/tanujpatra228/MERN-Project-management#requirements)
+- [Installation](https://github.com/tanujpatra228/MERN-Project-management#installation)
+- [Usage](https://github.com/tanujpatra228/MERN-Project-management#usage)
 
 ### Features
 
