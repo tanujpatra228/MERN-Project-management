@@ -1,5 +1,5 @@
 # MERN-Project-management
-##Project Management System
+## Project Management System
 This is a full-stack project management system built using GraphQL, Express, MongoDB, React, and Apollo. The system allows users to create and manage projects, tasks, and updates.
 
 ### Table of Contents
